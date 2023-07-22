@@ -134,3 +134,8 @@ describe('$name$', () => {
 - reuse components as much as possible (if there is a title or button inside a component, use the headline or button component instead of creating a new one, or apply the same style)
 - if you find behaviors in the design, like rounded corners, shadows, ... use tailwinds functions & directives to apply them, or create a custom style for it. avoid copy & paste classes,
 - because it will make it difficult to maintain when changing something globally
+
+# Useful links
+
+- [@handmade-systems/eslint-plugin](https://github.com/Handmade-Systems/eslint-plugin) - Our custom eslint plugin with a predefined set of rules
+- [@handmade-systems/prettier-config](https://github.com/Handmade-Systems/prettier-config) - Our custom prettier config
